@@ -1,0 +1,46 @@
+<table border="0" cellpadding="0" cellspacing="0" class="teams">
+<tr>
+<th class="bt bb bl">
+<a data-ylk="slk:icon_tig;pos:0" href="/npb/teams/5/" title="ã_">
+<div class="pn T">
+</div>
+</a>
+</th>
+<td class="yjMS bt bb">
+<span>
+<a data-ylk="slk:text_tig;pos:0" href="/npb/teams/5/">ã_</a>
+</span>
+</td>
+<td rowspan="2">
+<table border="0" cellpadding="0" cellspacing="0" class="score">
+<tr>
+<td class="score_r">5</td>
+<td class="yjSt bl">
+<a data-ylk="slk:review;pos:3" href="/npb/game/2018080103/top">í•]</a>
+</td>
+</tr>
+<tr>
+<td class="end yjMSt bt bb" colspan="2">
+<a data-ylk="slk:sta_rslt;pos:3" href="/npb/game/2018080103/">Œ‹‰Ê</a>
+</td>
+</tr>
+<tr>
+<td class="score_r"><strong>8</strong></td>
+<td class="yjSt bl">
+<em>18:00</em>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="bt bb bl">
+<a data-ylk="slk:icon_dra;pos:0" href="/npb/teams/4/" title="’†“ú">
+<div class="pn D"></div>
+</a>
+</th>
+<td class="yjMS bb">
+<span><a data-ylk="slk:text_dra;pos:0" href="/npb/teams/4/">’†“ú</a></span>
+</td>
+</tr>
+</table>

@@ -1,0 +1,15 @@
+[<td class="yjMS bt bb">
+<span>
+<a data-ylk="slk:text_tig;pos:0" href="/npb/teams/5/">阪神</a>
+</span>
+</td>, 
+<td class="yjMS bb">
+<span>
+<a data-ylk="slk:text_dra;pos:0" href="/npb/teams/4/">中日</a>
+</span></td>]
+
+リスト型として、yjMSが抜き出されている
+.select はcssセレクタを指定して抜き出せる
+
+.a.string
+a tagの文字を取り出す意味
